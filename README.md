@@ -28,31 +28,34 @@ This repository documents the bottom-up design flow for building compressor-base
 ## Repository Structure
 
 ```
-├── 01_CMOS/
-│   ├── Compressor_XOR/
-│   ├── Full_adder/
-│   ├── Half_adder/
+├── 1_01_CMOS/
 │   ├── Logic_Gates/
 │   │   ├── AND/
 │   │   ├── Inverter/
 │   │   ├── OR/
 │   │   ├── XOR/
-│   ├── Multiplier_4X4/
+│   ├── 2_Half_adder/
+│   ├── 3_Full_adder/
+│   └── 4_Mux_2x1/
+│   ├── 5_Compressor_XOR/
+│   ├── 6_Multiplier_4X4/
 │   │   ├── MTCMOS/
-│   └── Mux_2x1/
 │
 ├── 02_FinFET/
-│   ├── Compressor_XOR/
-│   ├── Full_Adder/
-│   ├── Half_Adder/
-│   ├── Logic_Gates/
+
+
+
+│   ├── 1_Logic_Gates/
 │   │   ├── AND/
 │   │   ├── Inverter/
 │   │   ├── OR/
 │   │   ├── XOR/
-│   ├── Multiplier_4X4/
+│   ├── 2_Half_Adder/
+│   ├── 3_Full_Adder/
+│   └── 4_Mux_2x1/
+│   ├── 5_Compressor_XOR/
+│   ├── 6_Multiplier_4X4/
 │   │   ├── MTCMOS/
-│   └── Mux_2x1/
 │
 └── README.md
 ```

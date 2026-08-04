@@ -42,9 +42,6 @@ This repository documents the bottom-up design flow for building compressor-base
 │   │   ├── MTCMOS/
 │
 ├── 02_FinFET/
-
-
-
 │   ├── 1_Logic_Gates/
 │   │   ├── AND/
 │   │   ├── Inverter/

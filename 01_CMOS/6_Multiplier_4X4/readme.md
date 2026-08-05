@@ -31,7 +31,6 @@ Static (leakage) power stays in the nW range across both input states, while dyn
 | `Symbol.png` | Block symbol used for hierarchical instantiation |
 | `Test.png` | Testbench setup used for functional and power simulation |
 | `Waveform1.png`, `Waveform2.png` | Functional simulation waveform (product verification) |
-|  | Power/timing-related simulation waveform |
 
 ## Tool & Technology
 

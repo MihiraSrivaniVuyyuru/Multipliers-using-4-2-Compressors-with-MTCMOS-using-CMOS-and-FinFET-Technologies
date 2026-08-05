@@ -21,7 +21,7 @@ This XOR + MUX structure is a well-known low-power/low-transistor-count techniqu
 | `Schematic.png` | Transistor-level FinFET schematic: XOR chain (Sum path) + two 2:1 muxes (Carry/Cout paths) |
 | `Symbol.png` | Block symbol used for hierarchical instantiation in higher-level modules |
 | `Test.png` | Testbench setup used for functional simulation |
-| `Waveform1.png` / `Waveform2.png` | Simulated input/output waveforms verifying Sum, Carry, and Cout |
+| `Waveform1.png` | Simulated input/output waveforms verifying Sum, Carry, and Cout |
 
 ## Tool & Technology
 
